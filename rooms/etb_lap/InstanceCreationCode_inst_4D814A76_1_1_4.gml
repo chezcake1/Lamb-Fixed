@@ -1,2 +1,0 @@
-targetRoom = etb_1
-

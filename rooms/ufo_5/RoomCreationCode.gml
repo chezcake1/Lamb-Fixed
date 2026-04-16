@@ -1,1 +1,0 @@
-global.roommessage = "TELEPORTATION FRUSTRATION";

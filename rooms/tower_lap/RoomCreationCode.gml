@@ -1,1 +1,0 @@
-global.roommessage = "MAD WITH PIZZA POWER"

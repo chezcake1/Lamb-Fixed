@@ -1,1 +1,0 @@
-global.roommessage = "HURRY UP!";

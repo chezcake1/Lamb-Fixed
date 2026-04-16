@@ -1,1 +1,0 @@
-global.roommessage = "GALACTIC PINBALL";

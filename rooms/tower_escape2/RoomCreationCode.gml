@@ -1,1 +1,0 @@
-global.roommessage = "PINEAPPLE DILEMMA";

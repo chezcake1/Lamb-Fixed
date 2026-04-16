@@ -1,1 +1,0 @@
-global.roommessage = "BONY PIZZA";

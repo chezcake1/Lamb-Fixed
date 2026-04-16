@@ -1,1 +1,0 @@
-global.roommessage = "CURRENT SITUATION";
