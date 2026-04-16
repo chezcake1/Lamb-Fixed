@@ -1,4 +1,0 @@
-lang = "spa"
-
-mod_title_pizzamulti = "Multi-Pizza"
-mod_desc_pizzamulti = "¡Que empiecen los softlocks!"
