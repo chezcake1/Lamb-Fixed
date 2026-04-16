@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_sugary",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sugary",
+  "parent":{
+    "name":"General",
+    "path":"folders/Scripts/CheesyPizza/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

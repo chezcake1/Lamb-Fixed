@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"safe_get",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"safe_get",
+  "parent":{
+    "name":"Utilities",
+    "path":"folders/Scripts/CheesyPizza/Utilities.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

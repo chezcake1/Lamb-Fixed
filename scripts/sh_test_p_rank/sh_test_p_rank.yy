@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sh_test_p_rank",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_test_p_rank",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

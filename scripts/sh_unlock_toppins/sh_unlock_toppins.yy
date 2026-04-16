@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sh_unlock_toppins",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_unlock_toppins",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

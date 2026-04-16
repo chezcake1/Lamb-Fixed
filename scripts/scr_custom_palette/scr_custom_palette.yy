@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_custom_palette",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_custom_palette",
+  "parent":{
+    "name":"General",
+    "path":"folders/Scripts/CheesyPizza/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

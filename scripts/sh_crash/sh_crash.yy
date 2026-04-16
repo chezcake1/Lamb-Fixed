@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sh_crash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sh_crash",
+  "parent":{
+    "name":"Shell",
+    "path":"folders/Scripts/Shell.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

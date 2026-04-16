@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_sound_new",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_sound_new",
+  "parent":{
+    "name":"General",
+    "path":"folders/Scripts/CheesyPizza/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
