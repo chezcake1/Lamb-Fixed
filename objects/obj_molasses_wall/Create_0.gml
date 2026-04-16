@@ -1,5 +1,0 @@
-SS_CODE_START;
-
-depth = 80;
-
-SS_CODE_END;
